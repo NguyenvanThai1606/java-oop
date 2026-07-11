@@ -1,0 +1,3 @@
+SV001,Thai Nguyen,3.8
+SV002,John Smith,3.5
+SV003,Alice,3.9
